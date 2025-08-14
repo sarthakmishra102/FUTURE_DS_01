@@ -10,7 +10,7 @@ Goals:
 
 ## 🔧 Tools Used
 - Python, Pandas
-- Matplotlib, Seaborn / Power BI
+- Matplotlib, Seaborn
 - Jupyter Notebook
 
 ## 📊 Highlights
