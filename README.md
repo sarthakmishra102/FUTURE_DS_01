@@ -1,4 +1,4 @@
-# 🍫 Chocolate Sales Analysis | Pyhton Project
+# 🍫 Chocolate Sales Analysis | Python Project
 
 ## 📌 Overview
 Exploratory Data Analysis of chocolate product sales across regions and product categories.
